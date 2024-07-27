@@ -75,12 +75,12 @@ c) RabbitMQ-
       node notifications/rabbitmq/producer.js
 
 6. Additional Tools and Libraries:
--Axios: Used in the frontend to make HTTP requests to the backend.
--Kafka Node: A Node.js client for Kafka to produce messages.
--amqplib: A Node.js library to interface with RabbitMQ.
--Firebase Admin SDK: Used for sending notifications via Firebase Cloud Messaging.
--Spring Boot: A Java framework for building REST APIs.
--Spring Data MongoDB: Provides MongoDB support in Spring applications.
+- Axios: Used in the frontend to make HTTP requests to the backend.
+- Kafka Node: A Node.js client for Kafka to produce messages.
+- amqplib: A Node.js library to interface with RabbitMQ.
+- Firebase Admin SDK: Used for sending notifications via Firebase Cloud Messaging.
+- Spring Boot: A Java framework for building REST APIs.
+- Spring Data MongoDB: Provides MongoDB support in Spring applications.
 
 
 # Conclusion
