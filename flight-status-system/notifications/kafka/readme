@@ -1,0 +1,3 @@
+To run the Kafka producer, ensure Kafka is running and then execute:
+
+node notifications/kafka/producer.js
