@@ -1,0 +1,3 @@
+To run the RabbitMQ producer, ensure RabbitMQ is running and then execute:
+
+node notifications/rabbitmq/producer.js
